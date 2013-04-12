@@ -1,0 +1,22 @@
+{
+    "name": "seaphp/meetup-code",
+    "type": "library",
+    "license": "MIT",
+    "authors":[
+        {
+            "name": "Seattle PHP Meetup Group",
+            "homepage": "http://www.meetup.com/php-49/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "SeaPhp": "src/"
+        }
+    }
+}

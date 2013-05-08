@@ -1,8 +1,8 @@
 <?php
 
-namespace SeaPhp\Meetup\Apr2013\Test;
+namespace SeaPhp\Apr2013\Test;
 
-use SeaPhp\Meetup\Apr2013\Math;
+use SeaPhp\Apr2013\Math;
 
 class MathTest extends \PHPUnit_Framework_TestCase
 {

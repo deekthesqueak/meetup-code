@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<phpunit bootstrap="./tests/bootstrap.php">
-    <testsuites>
-        <testsuite name="Seattle PHP Meetup Group Tests">
-            <directory>./tests</directory>
-        </testsuite>
-    </testsuites>
+<phpunit>
+  <testsuites>
+    <testsuite name="Seattle PHP Meetup Group Tests">
+      <directory>./src/SeaPhp/Apr2013/Tests</directory>
+      <directory>./src/SeaPhp/May2013/Tests</directory>
+    </testsuite>
+  </testsuites>
 </phpunit>

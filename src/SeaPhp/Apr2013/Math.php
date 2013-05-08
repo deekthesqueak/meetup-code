@@ -1,6 +1,6 @@
 <?php
 
-namespace SeaPhp\Meetup\Apr2013;
+namespace SeaPhp\Apr2013;
 
 class Math
 {

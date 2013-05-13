@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<phpunit>
+<phpunit bootstrap="./vendor/autoload.php">
   <testsuites>
     <testsuite name="Seattle PHP Meetup Group Tests">
       <directory>./src/SeaPhp/Apr2013/Tests</directory>
